@@ -1,0 +1,47 @@
+.ssw{ 
+margin: 0 auto; 
+display: table; 
+width: 100%; 
+max-width: 200px; 
+}
+
+.ssw-block { 
+border-radius: 3px; 
+height: auto; 
+float: left; 
+max-width: 200px; 
+width: 100%; 
+position: relative; 
+}
+
+.ssw-block  img { 
+float: left; 
+width: 32px; 
+height: auto; 
+position: absolute; 
+top: 20%; 
+}
+.ssw-block  a { 
+color: #ffffff !important; 
+text-decoration: none !important; 
+margin-left: 40px; 
+}
+.ssw-content { 
+line-height: 30px; 
+text-align: left; 
+font-size: 20px; 
+position: relative; 
+left:40px;
+display:table;
+}
+.ssw-block:hover> .ssw-content> .ssw-text{
+	display:none;
+	transition: 3s;
+}
+.ssw-block:hover> .ssw-content> .ssw-text2{
+	display:block;
+	transition:3s;
+}
+.ssw-text2{
+	display:none;
+}
