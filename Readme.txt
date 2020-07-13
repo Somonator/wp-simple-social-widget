@@ -1,9 +1,7 @@
-=== Simple Soc Widget === 
+=== Simple Social Widget === 
 Contributors: Somonator
-Tags: social, button
-Requires at least: 3.0
-Tested up to: 4.6
-Stable tag: 1.0
+Tags: social, button, widget
+Tested up to: 5.2.3
 
 Beatiful social button for your site, without social Api
 
@@ -11,17 +9,18 @@ Beatiful social button for your site, without social Api
 Beatiful social button for your site, without social Api
 
 == Installation ==
-1) Install this plugin.
-
-2) Add widget of plugin
-
-3) Well done! 
+1. Install this plugin
+2. Add widget "Simple Social Widget" and enter data to display buttons
 
 == Frequently Asked Questions ==
-You can display the widget where you want it.
+● You can add multiple buttons in one widget using the "add" button.
+● You can translate this plugin into your language by using any editor. (If you did, please email me throw off the transfer, which would facilitate my work).
 
 == Screenshots ==
-1. Social button
+1. Social buttons
 
 == Changelog ==
 1.0 Release
+1.1 Completely rewritten code
+1.2 Now you can add a few buttons to one widget
+1.3 Bugs fixed, minified css and js files

@@ -1,0 +1,61 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-19 08:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-soc-widget.php:31
+msgid "Constructor simple social buttons for your site, without social Api."
+msgstr ""
+
+#: simple-soc-widget.php:39
+msgid "Title:"
+msgstr ""
+
+#: simple-soc-widget.php:53
+msgid "Button"
+msgstr ""
+
+#: simple-soc-widget.php:54
+msgid "Link:*"
+msgstr ""
+
+#: simple-soc-widget.php:55
+msgid "Color of background:"
+msgstr ""
+
+#: simple-soc-widget.php:56
+msgid "Color of text:"
+msgstr ""
+
+#: simple-soc-widget.php:57
+msgid "Image:"
+msgstr ""
+
+#: simple-soc-widget.php:58
+msgid "Text:*"
+msgstr ""
+
+#: simple-soc-widget.php:59
+msgid "Text on hover:"
+msgstr ""
+
+#: simple-soc-widget.php:64
+msgid "Add new"
+msgstr ""
+
+#: simple-soc-widget.php:86
+msgid "Edit"
+msgstr ""

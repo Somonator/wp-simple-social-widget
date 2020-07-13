@@ -1,0 +1,5 @@
+/**
+* The plugin "Simple Soc Wdiget" styles for admin panel.
+*/
+
+.ssw .ssw-forms{max-height:455px;margin-bottom:1em;overflow:auto}.ssw .ssw-forms .ssw-form{border:2px groove threedface;padding:.35em .75em .625em .75em;margin:2px 5px 10px 2px;position:relative}.ssw .ssw-forms .ssw-form label[for]{width:100%;display:block;margin-bottom:5px}.ssw .ssw-forms .ssw-form img{max-width:100px;height:auto;display:block;margin-bottom:10px}.ssw .ssw-forms .ssw-form .edit-image{margin-right:10px}.ssw .ssw-forms .ssw-form .delete-image{line-height:16px;padding:5px}.ssw .ssw-forms .ssw-form .delete{font-size:25px;position:absolute;top:20px;right:20px;cursor:pointer}.ssw .ssw-forms .ssw-form .delete:after{content:"\f335"}.ssw .ssw-forms .ssw-form .delete:hover{color:#00b9eb}.ssw .ssw-forms .add-new{margin:1em auto 0 auto;display:block}
