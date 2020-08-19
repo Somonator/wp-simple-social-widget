@@ -1,0 +1,80 @@
+/**
+* The plugin "Simple Soc Wdiget" styles for admin panel.
+*/
+
+.ssw * {
+    box-sizing: border-box;
+}
+.ssw .forms {
+    max-height: 500px;
+    margin-bottom: 1em;
+    overflow: auto;
+}
+.ssw .form {
+    background: #ffffff;
+    border: 2px groove threedface;
+    margin-bottom: 10px;
+}
+.ssw .form .head {
+    border-bottom: 1px solid black;
+    min-height: 41px;
+    padding: 5px;    
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+.ssw .form .head .title {
+    font-size: 1em;
+    font-weight: 500;
+    color: #23282d;
+}
+.ssw .form .head .manage {
+    display: flex;
+}
+.ssw .form .head .move,
+.ssw .form .head .delete {
+    padding: 5px;
+}
+.ssw .form .head .move {
+    cursor: move;
+}
+.ssw .form .head .delete {
+    cursor: pointer;
+}
+.ssw .form .content {
+    padding: 15px;
+}
+.ssw .form label[for] {
+    width: 100%;
+    display: block;
+    margin-bottom: 5px;
+}
+.ssw .form button {
+    vertical-align: middle;
+}
+.ssw .form img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.ssw .form .edit-image {
+    margin-right: 10px;
+}
+.ssw .form .delete-image {
+    line-height: 16px;
+    padding: 5px;
+}
+.ssw .add-new {
+    margin: 1em auto 0 auto;
+    display: block;
+}
+
+/* jq ui placeholder */
+.ssw .portlet-placeholder {
+    border: 1px dashed #000;
+    width: 100%;
+    margin-bottom: 10px;
+}
